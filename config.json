@@ -1,0 +1,7 @@
+{
+    "port": 3005,
+    "maxInstrument": 99,
+    "minInstrument": 0,
+    "noteDelay": 250,
+    "chordDelay": 750
+}
